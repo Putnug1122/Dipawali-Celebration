@@ -1,2 +1,2 @@
-# Hari-Dipawali
-Sebuah program berbasis web sederhana untuk memeriahkan hari raya Dipawali
+# Dipawali-Day-Celebration
+A Web design to celebrated India Dipawali Day
